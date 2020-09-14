@@ -1,8 +1,8 @@
 const nome = 'Felipe';
 const concatenacao = 'Olá ' + nome + '!';
 const template = `
-    Olá
-    ${nome}!`;
+  Olá
+  ${nome}!`;
 console.log(concatenacao, template);
 
 // expressões
