@@ -1,0 +1,1 @@
+this.olaPovo = 'Olá Povo'
